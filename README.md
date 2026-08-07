@@ -40,22 +40,3 @@ Hoje atuo na **Globalpac**, e no tempo livre exploro projetos com Next.js, React
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=22d3ee&text_color=e5e7eb&cache_seconds=1800" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkloy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=e5e7eb&cache_seconds=1800" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-*Building modern web experiences — one commit at a time.*
-
-</div>
