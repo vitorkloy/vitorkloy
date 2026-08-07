@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vitor Kloy](./assets/banner.mp4)
+![Vitor Kloy](https://github.com/vitorkloy/vitorkloy/blob/main/assets/banner.mp4)
 
 <br />
 
