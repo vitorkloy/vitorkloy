@@ -1,10 +1,10 @@
 <div align="center">
 
-![Vitor Kloy](https://github.com/vitorkloy/vitorkloy/blob/main/assets/banner.mp4)
+<img src="./assets/banner.gif" alt="Vitor Kloy" width="100%" />
 
 <br />
 
-### 🤖 VITOR AI CORE
+### VITOR AI CORE
 
 <img src="./assets/ai-core.svg" alt="Vitor System Online" width="680" />
 
@@ -13,26 +13,26 @@
 **Full-Stack Developer** construindo experiências web modernas com React e Next.js.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vitorkloy-181717?style=for-the-badge&logo=github)](https://github.com/vitorkloy)
-[![Location](https://img.shields.io/badge/São_José_dos_Campos-SP-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/vitorkloy)
+[![Location](https://img.shields.io/badge/São_José_dos_Campos-SP-7c3aed?style=for-the-badge)](https://github.com/vitorkloy)
 
 </div>
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 Olá! Eu sou o **Vitor Kloy** — desenvolvedor full-stack focado em interfaces limpas, APIs sólidas e produtos que resolvem problemas de verdade.
 
 Hoje atuo na **Globalpac**, e no tempo livre exploro projetos com Next.js, React e experiências de UI/UX.
 
-- 🔭 Trabalhando com apps web e sistemas internos
-- 🌱 Aprofundando em Next.js, TypeScript e arquitetura front-end
-- 💬 Pode me perguntar sobre React, Next.js e UI moderna
-- ⚡ Curto transformar ideias em produtos usáveis
+- Trabalhando com apps web e sistemas internos
+- Aprofundando em Next.js, TypeScript e arquitetura front-end
+- Pode me perguntar sobre React, Next.js e UI moderna
+- Curto transformar ideias em produtos usáveis
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <div align="center">
 
@@ -49,9 +49,7 @@ Hoje atuo na **Globalpac**, e no tempo livre exploro projetos com Next.js, React
 
 ---
 
-### 🚀 Projetos em destaque
-
-<div align="center">
+### Projetos em destaque
 
 | Projeto | Sobre |
 | --- | --- |
@@ -61,23 +59,21 @@ Hoje atuo na **Globalpac**, e no tempo livre exploro projetos com Next.js, React
 | [Farm-Frontend](https://github.com/vitorkloy/Farm-Frontend) | Frontend para gestão agrícola |
 | [Climate-Monitoring](https://github.com/vitorkloy/Climate-Monitoring) | Monitoramento climático |
 
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=22d3ee&text_color=e5e7eb&cache_seconds=1800" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkloy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=e5e7eb&cache_seconds=1800" alt="Top languages" />
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=22d3ee&text_color=e5e7eb" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkloy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=e5e7eb" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-✨ *Building modern web experiences — one commit at a time.*
+*Building modern web experiences — one commit at a time.*
 
 </div>
