@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.gif" alt="Vitor Kloy" width="100%" />
-
-<br />
-
 **Full-Stack Developer** construindo experiências web modernas com React e Next.js.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vitorkloy-181717?style=for-the-badge&logo=github)](https://github.com/vitorkloy)
@@ -12,6 +8,8 @@
 </div>
 
 ---
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&cache_seconds=1800" alt="Vitor Kloy's GitHub Stats" />
 
 ### Sobre mim
 
@@ -23,6 +21,8 @@ Hoje atuo na **Globalpac**, e no tempo livre exploro projetos com Next.js, React
 - Aprofundando em Next.js, TypeScript e arquitetura front-end
 - Pode me perguntar sobre React, Next.js e UI moderna
 - Curto transformar ideias em produtos usáveis
+
+<br clear="both" />
 
 ---
 
