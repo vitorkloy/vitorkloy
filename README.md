@@ -4,12 +4,6 @@
 
 <br />
 
-### VITOR AI CORE
-
-<img src="./assets/ai-core.svg" alt="Vitor System Online" width="680" />
-
-<br />
-
 **Full-Stack Developer** construindo experiências web modernas com React e Next.js.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vitorkloy-181717?style=for-the-badge&logo=github)](https://github.com/vitorkloy)
@@ -46,18 +40,6 @@ Hoje atuo na **Globalpac**, e no tempo livre exploro projetos com Next.js, React
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-### Projetos em destaque
-
-| Projeto | Sobre |
-| --- | --- |
-| [Pedidos-Online-Next](https://github.com/vitorkloy/Pedidos-Online-Next) | Sistema de pedidos com Next.js |
-| [controle-ponto-next](https://github.com/vitorkloy/controle-ponto-next) | Controle de ponto moderno |
-| [Secure-Payments-Simulator](https://github.com/vitorkloy/Secure-Payments-Simulator) | Simulador de pagamentos seguros |
-| [Farm-Frontend](https://github.com/vitorkloy/Farm-Frontend) | Frontend para gestão agrícola |
-| [Climate-Monitoring](https://github.com/vitorkloy/Climate-Monitoring) | Monitoramento climático |
 
 ---
 
