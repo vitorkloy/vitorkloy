@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&cache_seconds=1800" alt="Vitor Kloy's GitHub Stats" />
+<img align="right" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&cache_seconds=1800" alt="Vitor Kloy's GitHub Stats" />
 
 ### Sobre mim
 
