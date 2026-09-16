@@ -1,47 +1,99 @@
-<img align="right" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&cache_seconds=1800" alt="Vitor Kloy's GitHub Stats" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0e0d,50:221f1c,100:d86a32&height=220&section=header&text=Vitor%20Kloy&fontSize=48&fontColor=f3eadc&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" alt="banner" width="100%" />
+</p>
 
-### Sobre mim
+<p align="center">
+  <strong>👋 Olá! Eu sou o Vitor Kloy de Oliveira</strong><br />
+  <span style="color:#3d9b8f">Desenvolvedor Full Stack</span>
+</p>
 
-Olá! Eu sou o **Vitor Kloy** — desenvolvedor full-stack focado em interfaces limpas, APIs sólidas e produtos que resolvem problemas de verdade.
-
-Hoje atuo na **Globalpac**, em São José dos Campos - SP. No tempo livre exploro projetos com Next.js, React e experiências de UI/UX.
-
-- Trabalhando com apps web e sistemas internos
-- Aprofundando em Next.js, TypeScript e arquitetura front-end
-- Pode me perguntar sobre React, Next.js e UI moderna
-- Curto transformar ideias em produtos usáveis
-
-<br clear="both" />
+<p align="center">
+  <a href="https://github.com/vitorkloy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://painel-repos.vercel.app"><img src="https://img.shields.io/badge/Painel%20de%20Repos-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Painel" /></a>
+  <a href="mailto:vitor.kloy08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
-### Stack
+<p align="center">
+  Desenvolvedor full-stack focado em interfaces limpas, APIs sólidas e produtos que resolvem problemas de verdade.<br />
+  Atuo na <strong>Globalpac</strong>, em São José dos Campos - SP. No tempo livre exploro Next.js, React e UI/UX.
+</p>
 
-**Linguagens**
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+## 📚 Um pouco sobre mim
 
-**Frontend**
+<p align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      💼<br /><strong>Experiência</strong><br />
+      Desenvolvedor<br />
+      <em>Globalpac</em>
+    </td>
+    <td align="center" width="33%">
+      📍<br /><strong>Local</strong><br />
+      São José dos Campos<br />
+      <em>SP · Brasil</em>
+    </td>
+    <td align="center" width="33%">
+      🎯<br /><strong>Foco</strong><br />
+      Apps web & sistemas internos<br />
+      <em>Next.js · TypeScript</em>
+    </td>
+  </tr>
+</table>
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-**Backend & Cloud**
+## 💻 O que eu faço
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p align="center">
+  Web apps 🌐 &nbsp;·&nbsp; APIs ⚙️ &nbsp;·&nbsp; UI/UX 🎨 &nbsp;·&nbsp; Sistemas internos 🏢
+</p>
 
-**Ferramentas**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,prisma,mongodb,supabase,git,github,vercel,vscode" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&bg_color=0f0e0d&title_color=d86a32&icon_color=3d9b8f&text_color=f3eadc" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkloy&layout=compact&theme=dark&hide_border=true&bg_color=0f0e0d&title_color=d86a32&text_color=f3eadc" alt="langs" />
+</p>
+
+---
+
+## 📞 Contato
+
+<p align="center">
+  <a href="mailto:vitor.kloy08@gmail.com"><img src="https://img.shields.io/badge/Email-vitor.kloy08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
+
+<p align="center">
+  ✨ Sempre aprendendo, sempre construindo. ✨<br />
+  <em>Interfaces limpas · APIs sólidas · produtos usáveis</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0e0d,100:3d9b8f&height=120&section=footer" alt="footer" width="100%" />
+</p>
