@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0e0d,50:221f1c,100:d86a32&height=220&section=header&text=Vitor%20Kloy&fontSize=48&fontColor=f3eadc&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c4784a,50:d86a32,100:e8a06a&height=200&section=header&text=Vitor%20Kloy&fontSize=48&fontColor=f3eadc&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descSize=18" alt="banner" width="100%" />
 </p>
 
 <p align="center">
   <strong>👋 Olá! Eu sou o Vitor Kloy de Oliveira</strong><br />
-  <span style="color:#3d9b8f">Desenvolvedor Full Stack</span>
+  <span style="color:#d86a32">Desenvolvedor Full Stack</span>
 </p>
 
 <p align="center">
@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&bg_color=0f0e0d&title_color=d86a32&icon_color=3d9b8f&text_color=f3eadc" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkloy&layout=compact&theme=dark&hide_border=true&bg_color=0f0e0d&title_color=d86a32&text_color=f3eadc" alt="langs" />
+  <img height="170" src="https://ghrs.vercel.app/api?username=vitorkloy&theme=dark&show_icons=true&hide_border=true&bg_color=221f1c&title_color=d86a32&icon_color=e8a06a&text_color=f3eadc" alt="stats" />
+  <img height="170" src="https://ghrs.vercel.app/api/top-langs/?username=vitorkloy&layout=compact&theme=dark&hide_border=true&bg_color=221f1c&title_color=d86a32&text_color=f3eadc" alt="langs" />
 </p>
 
 ---
@@ -95,5 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0e0d,100:3d9b8f&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c4784a,50:d86a32,100:e8a06a&height=120&section=footer" alt="footer" width="100%" />
 </p>
