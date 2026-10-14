@@ -185,4 +185,5 @@ save('proj-defender.svg', projeto('desktop-defender', 'Desktop Defender', 'jogo 
 save('btn-portfolio.svg', botao('globe2', 'portfólio'));
 save('btn-linkedin.svg', botao('linkedin', 'linkedin'));
 save('btn-email.svg', botao('envelope', 'email'));
+save('btn-instagram.svg', botao('instagram', 'instagram'));
 save('btn-github.svg', botao('github', 'github'));

@@ -3,6 +3,7 @@
 <a href="https://vitorkloy.vercel.app"><img src="./src/ascii/btn-portfolio.svg" width="156" height="44" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/vitor-kloy/"><img src="./src/ascii/btn-linkedin.svg" width="156" height="44" alt="LinkedIn" /></a>
 <a href="mailto:vitor.kloy08@gmail.com"><img src="./src/ascii/btn-email.svg" width="156" height="44" alt="Email" /></a>
+<a href="https://www.instagram.com/vitor_kloy/"><img src="./src/ascii/btn-instagram.svg" width="156" height="44" alt="Instagram" /></a>
 <a href="https://github.com/vitorkloy"><img src="./src/ascii/btn-github.svg" width="156" height="44" alt="GitHub" /></a>
 <a href="https://painel-repos.vercel.app"><img src="./src/ascii/destaque.svg" width="100%" alt="Painel de Repos · dashboard de repositórios com GitHub OAuth, estatísticas e gestão de projetos · visitar" /></a>
 <a href="https://github.com/vitorkloy/Escrituracao-Fiscal"><img src="./src/ascii/proj-escrituracao.svg" width="100%" alt="Escrituração Fiscal · app desktop Electron + Next.js para apoio à escrituração fiscal" /></a>
@@ -16,5 +17,6 @@
 <a href="https://vitorkloy.vercel.app"><img src="./src/ascii/btn-portfolio.svg" width="156" height="44" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/vitor-kloy/"><img src="./src/ascii/btn-linkedin.svg" width="156" height="44" alt="LinkedIn" /></a>
 <a href="mailto:vitor.kloy08@gmail.com"><img src="./src/ascii/btn-email.svg" width="156" height="44" alt="Email" /></a>
+<a href="https://www.instagram.com/vitor_kloy/"><img src="./src/ascii/btn-instagram.svg" width="156" height="44" alt="Instagram" /></a>
 <a href="https://github.com/vitorkloy"><img src="./src/ascii/btn-github.svg" width="156" height="44" alt="GitHub" /></a>
 </p>
