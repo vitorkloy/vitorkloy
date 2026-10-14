@@ -4,6 +4,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { C, MONO, esc, rng, card } from './lib.mjs';
+import { cubeSvg } from './cube.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const OUT = join(here, '..', 'src', 'ascii');
@@ -114,13 +115,10 @@ ${items}
 
 // ---------- contato ----------
 function contato() {
-  const H = 356, logo = ART.logo;
-  const art = logo.map((l, i) => {
-    const parts = l.replace(/[@#+]+/g, m => `\u0001${m}\u0002`).split(/(\u0001[^\u0002]*\u0002)/).map(p =>
-      p.startsWith('\u0001') ? `<tspan fill="${C.white}">${esc(p.slice(1, -1))}</tspan>` : esc(p).replace(/ /g, '\u00a0')).join('');
-    return `<text x="36" y="${70 + i * 11.4}">${parts}</text>`;
-  }).join('');
-  const body = `<g class="lg" font-size="11" fill="${C.accent}">${art}</g>
+  const H = 356;
+  // cubo mágico em ASCII girando, com camadas que giram e voltam
+  const cube = cubeSvg({ x0: 40, y0: 76, cols: 54, rows: 30, frames: 64, dur: 8, colors: [C.white, C.light, C.accent, '#1e3a8a'] });
+  const body = `${cube.svg}
 <text x="400" y="136" font-size="38" fill="${C.white}">bora conversar?</text>
 <text x="402" y="174" font-size="16" fill="${C.mute}">vaga, projeto ou só trocar ideia.</text>
 <text x="402" y="234" font-size="19"><tspan fill="${C.light}">&gt; </tspan><tspan fill="${C.text}">vitor.kloy08@gmail.com</tspan></text>
@@ -129,7 +127,7 @@ function contato() {
   return card({
     W, H, label: '[06] ~/contato', right: '-- EOF --',
     title: 'bora conversar? vaga, projeto ou só trocar ideia — vitor.kloy08@gmail.com · vitorkloy.vercel.app',
-    css: '.lg{animation:lg 4s ease-in-out infinite}@keyframes lg{0%,100%{opacity:.85}50%{opacity:1}}',
+    css: cube.css,
     body, rainOpts: { seed: 6, cols: 26 },
   });
 }
