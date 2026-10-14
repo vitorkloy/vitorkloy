@@ -1,0 +1,49 @@
+name: Atualizar contribuições
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contributions.yml
+      - .github/scripts/contributions.mjs
+      - tools/lib.mjs
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'vitorkloy/vitorkloy'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Desenhar as contribuições em ASCII
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/contributions.mjs ${{ github.repository_owner }} src/ascii/contributions.svg
+
+      - name: Publicar o gráfico atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/ascii/contributions.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: atualizar gráfico de contribuições"
+          git pull --rebase
+          git push
