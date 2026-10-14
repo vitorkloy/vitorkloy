@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://vitorkloy.vercel.app"><img src="./src/ascii/hero.svg" width="100%" alt="vitor kloy de oliveira · desenvolvedor full stack · interfaces limpas, APIs sólidas. Next.js, React e TypeScript no front; Node, Python e Electron no back. Globalpac, São José dos Campos - SP." /></a>
+<a href="https://vitorkloy.vercel.app"><img src="./src/ascii/hero.svg" width="100%" alt="vitor kloy de oliveira · desenvolvedor full stack · interfaces limpas, APIs sólidas. Next.js, React e TypeScript no front; Node, Python e Electron no back. Assistente de programação na Globalpac, São José dos Campos - SP." /></a>
 <a href="https://vitorkloy.vercel.app"><img src="./src/ascii/btn-portfolio.svg" width="156" height="44" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/vitor-kloy/"><img src="./src/ascii/btn-linkedin.svg" width="156" height="44" alt="LinkedIn" /></a>
 <a href="mailto:vitor.kloy08@gmail.com"><img src="./src/ascii/btn-email.svg" width="156" height="44" alt="Email" /></a>
