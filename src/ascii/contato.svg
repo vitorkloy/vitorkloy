@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160">
+<style>@keyframes b{50%{opacity:0}}.c{animation:b 1s step-end infinite}@keyframes f{from{opacity:0;transform:translateY(6px)}to{opacity:1}}.f{animation:f .8s ease-out both}</style>
+<rect x="1" y="1" width="898" height="158" rx="14" fill="#020617" stroke="#3b82f6" stroke-opacity=".35"/>
+<text x="40" y="58" fill="#e2e8f0" font-size="26" font-weight="700" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" >bora conversar?</text><text x="40" y="88" fill="#94a3b8" font-size="14" font-weight="400" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" >vaga, projeto ou só trocar ideia</text><text x="40" y="124" fill="#60a5fa" font-size="15" font-weight="700" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" >vitor.kloy08@gmail.com · vitorkloy.vercel.app</text></svg>
